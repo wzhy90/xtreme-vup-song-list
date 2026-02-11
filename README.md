@@ -1,6 +1,6 @@
 # vup 歌单站
 
-[猫音ねね的歌单](https://nekone.work)
+[極限_official的歌单](https://x.nekone.work)
 
 ### 安装Node.js
 [Node.js](https://nodejs.org/en/download)
