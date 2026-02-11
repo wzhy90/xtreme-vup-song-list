@@ -10,7 +10,7 @@ let config = {
     Cursor: false, // 使用自定义光标图片
   
     LanguageCategories: ["Bangdream!", "FF14", "J-Pop", "ボカロ", "中森明菜", "松田聖子", "演歌", "特撮", "邓丽君"], // 语言分类
-    RemarkCategories: [], // 标签分类
+    RemarkCategories: ["首次灯牌"], // 标签分类
   
     BannerTitle: "極限_official", // banner 标题
   
