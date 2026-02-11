@@ -21,16 +21,16 @@ export default function MandarinBtn({
   return (
     <div className="d-grid">
       <SplitButton
-        title={initialFilter === "" ? "日语" : `日语（${initialFilter}）`}
+        title={initialFilter === "" ? "アニソング" : `アニソング（${initialFilter}）`}
         className={
-          languageFilter == "日语"
+          languageFilter == "アニソング"
             ? styles.mandarinBtnActive
             : styles.mandarinBtn
         }
         onClick={(e) => {
-          languageFilter == "日语"
+          languageFilter == "アニソング"
             ? setLanguageState("")
-            : setLanguageState("日语");
+            : setLanguageState("アニソング");
         }}
       >
         {availableAlphabets.sort().map((alphabet) => {

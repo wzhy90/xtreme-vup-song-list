@@ -154,7 +154,7 @@ export default function Home() {
             <div className={styles.cornerToggle}>
               <Image
                 loader={imageLoader}
-                src="assets/nene/alter1.webp"
+                src="assets/xtreme/alter1.webp"
                 alt="去直播间"
                 width={50}
                 height={50}
@@ -179,7 +179,7 @@ export default function Home() {
               /> }
               <Image
                 loader={imageLoader}
-                src="assets/nene/alter1.webp"
+                src="assets/xtreme/alter1.webp"
                 alt="去录播站"
                 width={60}
                 height={60}
@@ -205,7 +205,7 @@ export default function Home() {
           />
           <Image
             loader={imageLoader}
-            src="assets/nene/alter2.webp"
+            src="assets/xtreme/alter2.webp"
             alt="打开B站主页"
             width={60}
             height={60}
@@ -216,12 +216,12 @@ export default function Home() {
         </div>
       </div> */}
       <div className={styles.headerLinksOneSide}>
-      <Link href={"https://space.bilibili.com/3546667674503619/"} target="_blank" style={{ textDecoration: "none", color: "#1D0C26" }}>
+      <Link href={"https://space.bilibili.com/208086/"} target="_blank" style={{ textDecoration: "none", color: "#1D0C26" }}>
           <div className={styles.headerLinks}>
             <div className={styles.cornerToggle}>
               <Image
                 loader={imageLoader}
-                src="assets/nene/alter2.webp"
+                src="assets/xtreme/alter2.webp"
                 alt="B站主页"
                 width={50}
                 height={50}
@@ -232,13 +232,13 @@ export default function Home() {
             </div>
           </div>
       </Link>
-
+{/*
       <Link href={"https://space.bilibili.com/3546689558285012/video"} target="_blank" style={{ textDecoration: "none", color: "#1D0C26" }}>
           <div className={styles.headerLinks}>
             <div className={styles.cornerToggle}>
               <Image
                 loader={imageLoader}
-                src="assets/nene/record.webp"
+                src="assets/xtreme/record.webp"
                 alt="B站直播回放"
                 width={50}
                 height={50}
@@ -249,7 +249,7 @@ export default function Home() {
             </div>
           </div>
       </Link>
-
+*/}
       </div>
       </div>
 
@@ -313,7 +313,7 @@ export default function Home() {
                         <th>歌名</th>
                         <th></th>
                         <th>原唱歌手</th>
-                        <th>语言</th>
+                        <th>分类</th>
                         <th>备注</th>
                       </tr>
                     </thead>

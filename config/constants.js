@@ -1,7 +1,7 @@
 let config = {
-    Name: "猫音ねねーNENE", // 主页名字
+    Name: "極限_official", // 主页名字
   
-    BiliLiveRoomID: "32639882", // 直播间id
+    BiliLiveRoomID: "4364192", // 直播间id
   
     NetEaseMusicId: "", // 网易云音乐id
     QQMusicId: "", // QQ音乐id
@@ -9,10 +9,10 @@ let config = {
   
     Cursor: false, // 使用自定义光标图片
   
-    LanguageCategories: ["英语", "中文"], // 语言分类
-    RemarkCategories: ["舰长", "SC"], // 标签分类
+    LanguageCategories: ["Bangdream!", "FF14", "J-Pop", "ボカロ", "中森明菜", "松田聖子", "演歌", "特撮", "邓丽君"], // 语言分类
+    RemarkCategories: [], // 标签分类
   
-    BannerTitle: "猫音ねねーNENE", // banner 标题
+    BannerTitle: "極限_official", // banner 标题
   
     BannerContent: [
     ],
