@@ -353,7 +353,7 @@ export default function Home() {
         ) : (
           <div></div>
         )}
-        <Link href={"https://github.com/wzhy90/nene-vup-song-list"} target="_blank" className={styles.footer}>
+        <Link href={"https://github.com/wzhy90/xtreme-vup-song-list"} target="_blank" className={styles.footer}>
             <img src="assets/images/github.webp" alt="github"></img>
             <span>{config.Footer}</span>
         </Link>
