@@ -9,8 +9,8 @@ let config = {
   
     Cursor: false, // 使用自定义光标图片
   
-    LanguageCategories: ["Bangdream!", "FF14", "J-Pop", "ボカロ", "中森明菜","昭和", "松田聖子", "演歌", "特撮", "邓丽君", "英文"], // 语言分类
-    RemarkCategories: ["首次灯牌"], // 标签分类
+    LanguageCategories: ["Bangdream!", "FF14", "J-Pop", "ボカロ", "中森明菜","昭和", "松田聖子", "演歌", "特撮", "邓丽君", "英文", "中文"], // 语言分类
+    RemarkCategories: ["首次灯牌", "30SC", "50SC", "100SC", "盲盒"], // 标签分类
   
     BannerTitle: "極限_official", // banner 标题
   
